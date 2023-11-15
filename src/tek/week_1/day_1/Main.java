@@ -6,11 +6,13 @@ public class Main {
 
         System.out.println( "Welcome to the world of programming!" );
 
-        /*Welcome to the world of programming!*/
+        /* Welcome to the world of programming! */
 
         System.out.println( "I DON'T LIKE YOU COMPUTER!" );
 
         /* I DON'T LIKE YOU COMPUTER! */
+
+        System.out.println( 5 + 3 );
 
     }
 
