@@ -10,9 +10,7 @@ public class MainMethod {
      engine and sets the car in motion, the main method is the starting point for any standalone Java program.
      When you run your Java program, the code inside the main method is what gets executed first.
 
-
-   Here's how the main method works in a Java program:
-
+    Here's how the main method works in a Java program:
 
     Entry Point: Just like you need to turn the key to start your car, the Java Virtual Machine (JVM) needs
     an entry point to start running your program. The main method serves as that entry point.
@@ -38,7 +36,6 @@ public class MainMethod {
 
     First to Run: As soon as you start your Java program, the main method is the first thing that runs.
     It's like how turning the key is the first step in driving your car.
-
 
     So, whenever you're looking at a Java program, look for the main method. That's where the action starts,
     and it gives you a roadmap for understanding what the program is designed to do. Just like a car won't run

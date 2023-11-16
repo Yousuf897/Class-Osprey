@@ -3,6 +3,7 @@ package tek.week_1.day_2;
 public class FundamentalsOfJava {
 
     /*
+
     Understanding the fundamentals of Java is like learning the basic rules and moves in a game of chess.
     Once you get these down, you'll be equipped to delve into more complex topics.
 
@@ -26,7 +27,7 @@ public class FundamentalsOfJava {
 
     4. Conditionals
 
-    Imagine a traffic light. If it's green, you go; if it's red, you stop. Conditionals (if, else, else if) in
+    Imagine a traffic light. If it's green, you go; if it's red, you stop. Conditionals (if, else, else if, switch) in
     Java work in a similar way; they let your program make decisions based on conditions.
 
     5. Loops
@@ -39,7 +40,7 @@ public class FundamentalsOfJava {
     Think of an array like a row of mailboxes. Each mailbox can hold a piece of data, and you can access
     it using its position (index).
 
-    7. Methods
+    7. Methods (functions)
 
     Methods are like little machines in a factory. You give them some material (arguments), they do something
     to it, and then they might give something back (return a value).
