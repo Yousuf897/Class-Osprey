@@ -9,7 +9,6 @@ public class CreatingVariable {
         boolean isWeatherRainy = false;
         char grade = 'A';
 
-
         String lastName = "Eric";
         lastName = "John"; // Modification
 
