@@ -28,6 +28,8 @@ public class WorkingWithString {
 
         System.out.println( firstName.substring(0, 2) ); // --> extract parts of it to create something
         // new.
-        
+
+
+
     }
 }
