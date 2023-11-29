@@ -31,7 +31,6 @@ public class ScannerExp {
     String name = input.nextLine();
     System.out.println("Hello, " + name + "!");
 
-
     Reading an Integer:
 
     System.out.println("Enter your age:");
@@ -44,8 +43,6 @@ public class ScannerExp {
     System.out.println("Enter the price of the item:");
     double price = input.nextDouble();
     System.out.println("The price is: $" + price);
-
-
 
 */
 
