@@ -23,7 +23,7 @@ public class LocalVariable {
 
         } // ==> Closing Block for if statement
 
-        System.out.println( number );
+//        System.out.println( number );
 
         for ( int i = 0; i <= 10; i++ ) { // ==> Opening Block of for loop
 
@@ -31,11 +31,11 @@ public class LocalVariable {
 
         } // ==> Closing Block of for loop
 
-        System.out.println( i );
+//        System.out.println( i );
 
 
     } // ==> Closing Block for main method
 
-    System.out.println( firstName );
+//    System.out.println( firstName );
 
 }

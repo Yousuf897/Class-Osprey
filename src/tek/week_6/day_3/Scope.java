@@ -19,7 +19,7 @@ public class Scope {
             System.out.println( i ); // Local Variable
         }
 
-        System.out.println( i ); // Not accessible, because the lifetime of this variable ended.
+        /*System.out.println( i );*/ // Not accessible, because the lifetime of this variable ended.
 
         boolean condition = true;
 
@@ -29,7 +29,7 @@ public class Scope {
             System.out.println( ifVariable );
         }
 
-        System.out.println( ifVariable ); // Not accessible, because the lifetime of this variable ended.
+       /* System.out.println( ifVariable );*/ // Not accessible, because the lifetime of this variable ended.
 
     }
 

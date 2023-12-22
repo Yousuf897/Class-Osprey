@@ -12,7 +12,7 @@ public class ClassScopeVariables {
 
     public static void main(String[] args) {
 
-        System.out.println( firstName );
+//        System.out.println( firstName );
 
     }
 
