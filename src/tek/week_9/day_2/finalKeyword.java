@@ -5,16 +5,16 @@ public class finalKeyword {
     public static void main(String[] args) {
 
         System.out.println( Math.PI );
-
+//
         final double Pi = 3.141592653589793;
-        Pi = 5.141592653589793;
-
-
-        final int maxSpeed = 240;
-        maxSpeed = 340;
-
-        final String firstName = "Bob";
-        firstName = "Tony";
+//        Pi = 5.141592653589793;
+//
+//
+//        final int maxSpeed = 240;
+//        maxSpeed = 340;
+//
+//        final String firstName = "Bob";
+//        firstName = "Tony";
     }
 
     /*

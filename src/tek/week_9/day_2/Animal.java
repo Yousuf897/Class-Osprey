@@ -2,7 +2,7 @@ package tek.week_9.day_2;
 
 public class Animal {
 
-    final void breath() {
+    public void breath() {
         System.out.println("Animals can breath");
     }
 
