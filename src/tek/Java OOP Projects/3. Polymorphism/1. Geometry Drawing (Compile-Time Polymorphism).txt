@@ -1,0 +1,8 @@
+Objective: Understand method overloading as a form of compile-time polymorphism.
+
+Steps:
+
+    1. Create a class named GeometryDrawer.
+    2. Implement overloaded methods draw() that take different shapes as arguments, e.g., draw(Circle circle), draw(Square square), and draw(Triangle triangle).
+    3. Each method should print out drawing instructions for the provided shape.
+    4. In the main method, instantiate different shapes and call the appropriate draw() method.

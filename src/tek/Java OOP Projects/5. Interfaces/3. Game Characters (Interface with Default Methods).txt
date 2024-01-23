@@ -1,0 +1,9 @@
+Objective: Explore the use of default methods in interfaces, introduced in Java 8.
+
+Steps:
+
+    1. Create an interface named GameCharacter.
+    2. Define methods like attack(), defend(), and a default method run() which prints "Character is running".
+    3. Develop concrete classes Warrior, Mage, and Archer implementing the GameCharacter interface.
+    4. Implement the attack and defend methods in each class.
+    5. In the main method, instantiate various characters and make them attack, defend, and run.

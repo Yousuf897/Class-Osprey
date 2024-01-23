@@ -1,0 +1,9 @@
+Objective: Create a basic contract for home appliances without tying to specific implementations.
+
+Steps:
+
+    1. Create an interface named Appliance.
+    2. Define methods like turnOn(), turnOff(), and getStatus().
+    3. Create concrete classes Fan, WashingMachine, and Refrigerator implementing the Appliance interface.
+    4. Provide implementations for the defined methods in each class.
+    5. In the main method, interact with various appliances using the methods defined in the interface.

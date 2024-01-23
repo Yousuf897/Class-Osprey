@@ -1,0 +1,8 @@
+Objective: Understand how method overloading allows functions with the same name to accept different parameters.
+
+Steps:
+
+    1. Create a class named AreaCalculator.
+    2. Implement overloaded methods calculateArea(): one that takes the radius of a circle, another that takes the sides of a rectangle, and another that takes the side of 	a square.
+    3. Each method should return the area of the shape it's designed to calculate.
+    4. In the main method, call these methods and display the computed areas.

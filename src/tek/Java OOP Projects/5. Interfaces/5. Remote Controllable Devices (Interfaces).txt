@@ -1,0 +1,9 @@
+Objective: Apply the principle of separating interface from implementation by defining actions for remote-controllable devices.
+
+Steps:
+
+    1. Create an interface named RemoteControllable.
+    2. Define methods like turnOn(), turnOff(), and setVolume(int level).
+    3. Develop concrete classes Television, AirConditioner, and Radio implementing the RemoteControllable interface.
+    4. Implement the defined methods in each class according to the behavior of each device.
+    5. In the main method, simulate the use of a universal remote control to interact with various devices.

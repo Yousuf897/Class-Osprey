@@ -1,0 +1,9 @@
+Objective: Model various modes of transport, focusing on the common operations each mode should support.
+
+Steps:
+
+    1. Create an interface named Transport.
+    2. Define methods like start(), stop(), and fuelUp().
+    3. Implement this interface in concrete classes such as Car, Bicycle, and Boat.
+    4. Each concrete class should provide a unique implementation for the interface methods.
+    5. In the main method, simulate a journey using various modes of transport.

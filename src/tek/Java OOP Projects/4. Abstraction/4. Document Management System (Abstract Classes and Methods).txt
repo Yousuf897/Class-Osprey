@@ -1,0 +1,9 @@
+Objective: Understand how to manage various document types with a uniform interface.
+
+Steps:
+
+    1. Create an abstract class named Document.
+    2. Define abstract methods open(), save(), and close().
+    3. Create concrete classes WordDocument, PDFDocument, and ExcelDocument extending Document.
+    4. Implement the abstract methods in each concrete class.
+    5. In the main method, simulate opening, editing, and saving documents of various types.

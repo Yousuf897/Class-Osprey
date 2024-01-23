@@ -1,0 +1,10 @@
+Objective: Understand how abstraction can be used to create a structure for shapes and their operations.
+
+Steps:
+
+    1. Create an abstract class named Shape.
+    2. Define abstract methods draw() and area().
+    3. Add a concrete method displayInfo() that prints basic info about the shape.
+    4. Create subclasses like Circle, Rectangle, and Triangle extending Shape.
+    5. Implement the abstract methods in each subclass.
+    6. In the main method, create a list of Shape objects, populate it with different shapes, and display their information.

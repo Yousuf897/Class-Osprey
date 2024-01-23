@@ -1,0 +1,8 @@
+Objective: Understand how polymorphism simplifies handling a system of related classes.
+
+Steps:
+
+    1. Create an abstract class named GraphicObject with a method draw().
+    2. Derive subclasses like Line, Circle, and Rectangle from GraphicObject.
+    3. Override the draw() method in each subclass to print specific drawing instructions.
+    4. In the main method, create an array or list of GraphicObject, populate it with various shapes, then iterate through the list, calling the draw() method on each object. Notice how each object knows how to draw itself.

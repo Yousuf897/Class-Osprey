@@ -1,0 +1,8 @@
+Objective: Understand how to structure classes that share a common parent but have distinct characteristics.
+
+Steps:
+
+    1. Create a base class named DigitalMedia with properties like title, price, and methods such as displayInfo().
+    2. Derive subclasses like Ebook, AudioTrack, and VideoClip from DigitalMedia. Each subclass should have unique properties. For instance, Ebook might have numPages,      	AudioTrack might have duration, and VideoClip might have resolution.
+    3. Override the displayInfo() method in each subclass to display specific information about the media type.
+    4. In a main method, instantiate objects for each of the derived classes, populate their properties, and display their information.

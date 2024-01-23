@@ -1,0 +1,8 @@
+Objective: Understand how a class can inherit behaviors from multiple interfaces.
+
+Steps:
+
+    1. Create two interfaces: WiFi with methods connectToWiFi() and disconnectFromWiFi(), and Bluetooth with methods connectToBluetoothDevice() and disconnectFromBluetoothDevice().
+    2. Design a class SmartSpeaker that implements both WiFi and Bluetooth.
+    3. Implement the methods of both interfaces, enabling the smart speaker to connect via both WiFi and Bluetooth.
+    5. In the main method, interact with a SmartSpeaker object, managing its connectivity.

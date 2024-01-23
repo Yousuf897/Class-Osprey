@@ -1,0 +1,8 @@
+Objective: Realize how a class can implement multiple interfaces to gain a combination of behaviors.
+
+Steps:
+
+    1. Create two interfaces: Storable with methods storeData() and retrieveData(), and Encryptable with methods encrypt() and decrypt().
+    2. Design a class SecureDrive that implements both Storable and Encryptable.
+    3. Implement the methods of both interfaces, adding both data storage and encryption capabilities to the class.
+    4. In the main method, interact with a SecureDrive object, storing, retrieving, encrypting, and decrypting data.

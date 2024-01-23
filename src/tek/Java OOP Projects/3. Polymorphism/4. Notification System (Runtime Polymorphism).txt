@@ -1,0 +1,9 @@
+Objective: Demonstrate how a single interface can be implemented by multiple classes, each providing its own interpretation.
+
+Steps:
+
+    1. Create an interface named Notification.
+    2. Define a method in the interface called send().
+    3. Create classes EmailNotification, SMSNotification, and PushNotification implementing the Notification interface.
+    4. Provide a unique implementation of the send() method in each class.
+    5. In the main method, create a list of Notification, populate it with various notification objects, and iterate through the list to call the send() method.

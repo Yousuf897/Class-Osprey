@@ -1,0 +1,9 @@
+Objective: Understand how to create a basic framework for various payment methods without implementing the specifics.
+
+Steps:
+
+    1. Create an abstract class named PaymentGateway.
+    2. Define abstract methods like authorize(), debit(), and credit().
+    3. Create concrete classes like CreditCard, DigitalWallet, and BankTransfer extending PaymentGateway.
+    4. Implement the abstract methods in each concrete class with their specific logics.
+    5. In the main method, instantiate different payment methods and process a payment through each one.

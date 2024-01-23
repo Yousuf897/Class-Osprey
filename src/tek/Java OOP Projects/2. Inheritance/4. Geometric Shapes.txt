@@ -1,0 +1,7 @@
+Objective: Understand how multiple classes can inherit from a single parent class.
+
+Steps:
+
+    1. Create a base class named Shape with properties like color, area, and methods such as calculateArea().
+    2. Derive subclasses like Circle, Square, and Triangle from Shape. Override the calculateArea() method in each derived class to compute areas specific to the shape.
+    3. In a main method, create objects for Circle, Square, and Triangle, set their specific properties, and compute their areas.

@@ -1,0 +1,7 @@
+Objective: Understand inheritance for categorizing objects and their behaviors.
+
+Steps:
+
+    1. Create a base class named ElectronicDevice with properties like brand, powerStatus and methods such as turnOn() and turnOff().
+    2. Derive a subclass named Television from ElectronicDevice. Add new properties like volume and a new method changeVolume().
+    3. In a main method, instantiate a Television object, manipulate its properties, and observe its behaviors.
